@@ -23,6 +23,5 @@
   <li>see information</li>
   <li>see features</li>
 </ol>
-<p>This website is an multipage but i have not done other pages yet because i am learning and in few days i will 
-update my website and make other pages . Till now i have made only home page.</p>
+<p>This website is an multipage website. But it is not responsive till now . in few days i will update my website and make it responsive.</p>
 <b>by:NEELKUNTH</b>
